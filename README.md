@@ -25,5 +25,5 @@ Five different algorithms were trained and evaluated. The **Support Vector Machi
 * **Random Forest:** 70.27%
 * **K-Nearest Neighbor (KNN):** 69.87%
 
-![Model Accuracies](1.png) 
+![Model Accuracies](correlation_Matrix.png) 
 
